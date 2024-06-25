@@ -5,7 +5,7 @@
     <br>
     Click on the chain name for official website.
 </div>
-<br>
+<hr>
 
 | Logo | Chain | Chain ID | Color | Type |
 |------|-------|----------|-------|------|
