@@ -1,4 +1,12 @@
-<div style="text-align: center;">
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Blockchain Reference Table</title>
+</head>
+<body>
+    <div style="text-align: center;">
     <h3>Blockchain Reference Table</h3>
     Click on the logo for block explorer.
     <br>
@@ -49,3 +57,6 @@
 | <a href="https://terrasco.pe"><img src="https://s2.coinmarketcap.com/static/img/coins/64x64/4172.png" alt="terra2" style="width: 24px; height: 24px;"></a> | <a href="https://terra.money" style="color:#FFCE00">terra2</a> | phoenix-1 | ##FFCE00 | L1 |
 | <a href="https://viewblock.io/thorchain"><img src="https://s2.coinmarketcap.com/static/img/coins/64x64/4157.png" alt="thorchain" style="width: 24px; height: 24px;"></a> | <a href="https://thorchain.org" style="color:#00FFFF">thorchain</a> | 935 | #00FFFF | L1 |
 | <a href="https://zkscan.io"><img src="https://s2.coinmarketcap.com/static/img/coins/64x64/15892.png" alt="zksync" style="width: 24px; height: 24px;"></a> | <a href="https://zksync.io" style="color:#000000">zksync</a> | 324 | #000000 | EVM |
+
+</body>
+</html>
