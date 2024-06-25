@@ -1,3 +1,7 @@
+---
+layout: default
+title: Blockchain Reference Table
+---
 <!DOCTYPE html>
 <html lang="en">
 <head>
