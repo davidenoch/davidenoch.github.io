@@ -3,11 +3,11 @@ layout: default
 title: Blockchain Reference Table
 ---
 
-    <div style="text-align: center;">
-    <h3>Blockchain Reference Table</h3>
-    Click on the logo for block explorer.
-    <br>
-    Click on the chain name for official website.
+<div style="text-align: center;">
+<h3>Blockchain Reference Table</h3>
+Click on the logo for block explorer.
+<br>
+Click on the chain name for official website.
 </div>
 <hr>
 
