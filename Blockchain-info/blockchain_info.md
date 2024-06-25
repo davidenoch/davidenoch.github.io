@@ -1,4 +1,3 @@
-
 <div style="text-align: center;">
     <h3>Blockchain Reference Table</h3>
     Click on the logo for block explorer.
@@ -9,7 +8,6 @@
 
 | Logo | Chain | Chain ID | Color | Type |
 |------|-------|----------|-------|------|
-
 | <a href="https://explorer.aptoslabs.com"><img src="https://s2.coinmarketcap.com/static/img/coins/64x64/14803.png" alt="aptos" style="width: 24px; height: 24px;"></a> | <a href="https://aptoslabs.com" style='color:#0B0B3B'>aptos</a> | None | #0B0B3B | L1 |
 | <a href="https://arbiscan.io"><img src="https://s2.coinmarketcap.com/static/img/coins/64x64/11223.png" alt="arbitrum" style="width: 24px; height: 24px;"></a> | <a href="https://arbitrum.io" style='color:#28A0F0'>arbitrum</a> | 42161 | #28A0F0 | EVM |
 | <a href="https://aurorascan.dev"><img src="https://s2.coinmarketcap.com/static/img/coins/64x64/14803.png" alt="aurora" style="width: 24px; height: 24px;"></a> | <a href="https://aurora.dev" style='color:#50D890'>aurora</a> | 1313161554 | #50D890 | EVM |
