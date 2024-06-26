@@ -9,7 +9,7 @@ Click on the logo for block explorer.
 <br>
 Click on the chain name for official website.
 </div>
-<hr>
+<br>
 
 | Logo | Chain | Chain ID | Color | Type |
 |------|-------|----------|-------|------|
