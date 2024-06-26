@@ -56,3 +56,21 @@ Click on the chain name for official website.
 | <a href="https://viewblock.io/thorchain"><img src="https://s2.coinmarketcap.com/static/img/coins/64x64/4157.png" alt="thorchain" style="width: 24px; height: 24px;"></a> | <a href="https://thorchain.org" style="color:#00FFFF">thorchain</a> | 935 | #00FFFF | L1 |
 | <a href="https://zkscan.io"><img src="https://s2.coinmarketcap.com/static/img/coins/64x64/15892.png" alt="zksync" style="width: 24px; height: 24px;"></a> | <a href="https://zksync.io" style="color:#000000">zksync</a> | 324 | #000000 | EVM |
 
+Hopefully, you can get some use out of this if you are researching or comparing multiple chains. You can use their logos, find out the explorer sites and official page as well as the chain id. The color is for charting to make it easier for viewers to follow which chain is which. Questions or suggestions? HMU on twitter or discord. I'm @potmo on both and am much more active on Discord than Twitter. 
+
+-potmo
+
+
+
+
+<div style="text-align: center; margin-top: 20px;">
+    <a href="https://twitter.com/potmo" target="_blank">
+        <img src="https://cdn.iconscout.com/icon/free/png-256/twitter-241-721979.png" alt="Twitter" style="width: 24px; height: 24px;">
+    </a>
+    <a href="https://discord.gg/vxFsvUwEqg" target="_blank" style="margin-left: 10px;">
+        <img src="https://cdn.iconscout.com/icon/free/png-256/discord-3-569463.png" alt="Discord" style="width: 24px; height: 24px;">
+    </a>
+    <a href="https://github.com/davidenoch/davidenoch.github.io/Blockchain-info" target="_blank" style="margin-left: 10px;">
+        <img src="https://cdn.iconscout.com/icon/free/png-256/github-153-675523.png" alt="GitHub" style="width: 24px; height: 24px;">
+    </a>
+</div>
