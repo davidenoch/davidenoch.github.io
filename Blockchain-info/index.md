@@ -56,5 +56,3 @@ Click on the chain name for official website.
 | <a href="https://viewblock.io/thorchain"><img src="https://s2.coinmarketcap.com/static/img/coins/64x64/4157.png" alt="thorchain" style="width: 24px; height: 24px;"></a> | <a href="https://thorchain.org" style="color:#00FFFF">thorchain</a> | 935 | #00FFFF | L1 |
 | <a href="https://zkscan.io"><img src="https://s2.coinmarketcap.com/static/img/coins/64x64/15892.png" alt="zksync" style="width: 24px; height: 24px;"></a> | <a href="https://zksync.io" style="color:#000000">zksync</a> | 324 | #000000 | EVM |
 
-</body>
-</html>
