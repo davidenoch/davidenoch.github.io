@@ -63,7 +63,7 @@ Hopefully, you can get some use out of this if you are researching or comparing 
 
 
 
-<div style="text-align: center; margin-top: 20px;">
+<div style=" margin-top: 20px;">
     <a href="https://twitter.com/potmo" target="_blank">
         <img src="https://cdn.iconscout.com/icon/free/png-256/twitter-241-721979.png" alt="Twitter" style="width: 24px; height: 24px;">
     </a>
